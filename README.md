@@ -6,7 +6,7 @@ This project created a programming quiz, written in Javascript, CSS, and HTML, w
 
 ## Installation
 
-May be viewed live at: .
+May be viewed live at: https://rensyphon.github.io/Time-Javascript-Quiz/.
 
 ## Usage
 
